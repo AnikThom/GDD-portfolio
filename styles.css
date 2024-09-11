@@ -58,6 +58,7 @@ a:visited{
   text-align: center;
   color: #02040F;
   font-size: 35px;
+  text-decoration: none;
 }
 
 .homebtn a:hover{
