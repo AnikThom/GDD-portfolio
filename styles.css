@@ -46,3 +46,22 @@ a:visited{
 .centerimg{
   text-align: center;
 }
+
+.homebtn{
+  background-color: #E5DADA;
+  border-radius: 5px;
+}
+
+.homebtn a{
+  padding: 10px;
+  float: left;
+  text-align: center;
+  color: #02040F;
+  font-size: 20px;
+}
+
+.homebtn a:hover{
+  background-color: #02040F;
+  color: #E5DADA;
+  
+}
