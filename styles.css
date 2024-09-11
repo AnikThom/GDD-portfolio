@@ -31,6 +31,14 @@ img{
   border-style: solid;
 }
 
+a:hover{
+color: #002642;
+}
+
+a:visited{
+  color: #02040F;
+}
+
 .centerimg{
   text-align: center;
 }
