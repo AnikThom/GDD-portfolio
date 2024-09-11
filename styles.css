@@ -15,6 +15,7 @@ h1{
 
 h2{
   text-align: center;
+  text-decoration: none;
 }
 
 h2:hover{
@@ -50,10 +51,11 @@ a:visited{
 .homebtn{
   background-color: #E5DADA;
   border-radius: 5px;
+  text-decoration: none;
 }
 
 .homebtn a{
-  padding: 10px;
+  padding: 25px;
   float: left;
   text-align: center;
   color: #02040F;
@@ -64,5 +66,4 @@ a:visited{
 .homebtn a:hover{
   background-color: #02040F;
   color: #E5DADA;
-  
 }
