@@ -17,6 +17,10 @@ h2{
   text-align: center;
 }
 
+h2:hover{
+  color: #002642;
+}
+
 h4{
   text-align: center;
 }
