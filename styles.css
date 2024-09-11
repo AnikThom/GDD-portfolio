@@ -35,8 +35,8 @@ img{
   border-style: solid;
 }
 
-a:hover{
-  color: red;
+a{
+  text-decoraction:  none;
 }
 
 a:visited{
