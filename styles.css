@@ -23,3 +23,7 @@ img{
   border-color: #002642;
   border-style: solid;
 }
+
+centerimg{
+  text-align: center;
+}
