@@ -47,6 +47,9 @@ a:visited{
 .centerimg{
   text-align: center;
 }
+.currlink{
+  text-decoration: none;
+}
 
 .homebtn{
   background-color: #E5DADA;
