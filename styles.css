@@ -70,3 +70,18 @@ a:visited{
   background-color: #02040F;
   color: #E5DADA;
 }
+
+.blinking h1::after {
+  content: "";
+  width: 2px;
+  height: 30px;
+  background: #2D4654;
+  display: inline-block;
+  animation: cursor-blink 1.5s steps(2) infinite;
+}
+
+@keyframes cursor-blink {
+  0% {
+    opacity: 0;
+  }
+}
