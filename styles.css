@@ -59,7 +59,7 @@ a:visited{
   text-align: center;
 }
 
-.hov a: hover{
+.nav a{
   text-decoration: none;
   padding: 10px 10px;
   font-size: 25px;
@@ -68,8 +68,10 @@ a:visited{
   cursor: pointer;
 }
 
-.nav a: hover{
-  color: #C5CFC5;
+#hov a:hover{
+
+    color: #b0dcf8;
+
 }
 
 .blinking h1::after {
