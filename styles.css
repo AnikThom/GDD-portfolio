@@ -53,9 +53,7 @@ a{
 }
 
 #hov a:hover{
-
     color: #b0dcf8;
-
 }
 
 .blinking h1::after {
@@ -65,6 +63,18 @@ a{
   background: #2D4654;
   display: inline-block;
   animation: cursor-blink 1.5s steps(2) infinite;
+}
+
+.element::-webkit-scrollbar {
+  display: none;
+}
+
+.element {
+  scrollbar-width: none;
+}
+
+.element {
+  -ms-overflow-style: none;
 }
 
 @keyframes cursor-blink {
