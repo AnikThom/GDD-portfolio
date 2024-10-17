@@ -84,7 +84,7 @@ a{
 }
 
 .imgdisplay{
-  display:flex;
+  display:inline-block;
 }
 
 @keyframes cursor-blink {
