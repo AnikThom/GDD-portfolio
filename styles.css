@@ -77,6 +77,12 @@ a{
   -ms-overflow-style: none;
 }
 
+.imgfloat{
+
+    float: left;
+
+}
+
 .imgdisplay{
   display:inline-block;
 }
