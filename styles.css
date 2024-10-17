@@ -77,6 +77,10 @@ a{
   -ms-overflow-style: none;
 }
 
+.imgdisplay{
+  display:inline-block;
+}
+
 @keyframes cursor-blink {
   0% {
     opacity: 0;
