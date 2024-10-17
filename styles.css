@@ -79,7 +79,7 @@ a{
 
 .imgfloat{
 
-    float: left;
+    display:block;
 
 }
 
