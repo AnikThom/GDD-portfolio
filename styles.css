@@ -5,7 +5,7 @@ body{
   font-family: "Proza Libre", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #243B4A;
+  color: #11222B;
   background-color: #A3B2C5;
 }
 
@@ -23,7 +23,7 @@ p{
 
 img{
   border-width: 4px;
-  border-color: #2D4654;
+  border-color: #11222B;
   border-style: solid;
 }
 
@@ -39,7 +39,7 @@ a{
 }
 
 .nav{
-  background-color: #2D4654;
+  background-color: #11222B;
   text-align: center;
 }
 
