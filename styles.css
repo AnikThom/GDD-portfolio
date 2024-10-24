@@ -56,7 +56,7 @@ a{
     color: #b0dcf8;
 }
 
-.blinking h1::after {
+.blinking::after {
   content: "";
   width: 2px;
   height: 30px;
