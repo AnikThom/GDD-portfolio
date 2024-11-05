@@ -7,19 +7,10 @@ body{
   font-style: normal;
   color: #11222B;
   background-color: #A3B2C5;
+  text-align:center;
 }
 
-h1{
-  text-align: center;
-}
 
-h4{
-  text-align: center;
-}
-
-p{
-  text-align: center;
-}
 
 img{
   border-width: 4px;
