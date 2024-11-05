@@ -89,6 +89,35 @@ a{
 
 }
 
+.heroimg{
+
+  top: 20%;
+  right: 0;
+  position: absolute;
+
+}
+
+.display{
+
+  position: relative;
+  margin-left: 100px;
+
+}
+
+.contacts{
+  text-align: center;
+  white-space: nowrap;
+  display: inline-block;
+  color: white;
+  width: 45px;
+
+}
+
+.contactdisplay{
+  position: relative;
+  text-align: center;
+}
+
 @keyframes cursor-blink {
   0% {
     opacity: 0;
