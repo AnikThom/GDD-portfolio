@@ -7,6 +7,7 @@ body{
   font-style: normal;
   color: #11222B;
   background-color: #A3B2C5;
+  text-align:center;
 }
 
 img{
@@ -113,13 +114,13 @@ a{
 
 }
 
-.imgdisplay{
+.imgcontainer{
   display: flex;
   margin-top: 5%;
   margin-bottom: 10%;
 }
 
-.imgfloat{
+.imgblock{
   display: block;
   position: relative;
   width: 50%;
