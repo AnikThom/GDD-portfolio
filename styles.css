@@ -24,6 +24,7 @@ a{
 .centerimg{
   text-align: center;
 }
+
 .currlink{
   text-decoration: none;
 }
@@ -46,27 +47,6 @@ a{
     color: #b0dcf8;
 }
 
-.blinking::after {
-  content: "";
-  width: 2px;
-  height: 30px;
-  background: #11222B;
-  animation: cursor-blink 1.5s steps(2) infinite;
-}
-
-.element::-webkit-scrollbar {
-  display: none;
-}
-
-.element {
-  scrollbar-width: none;
-}
-
-.element {
-  -ms-overflow-style: none;
-}
-
-
 .imgdisplay{
   display: inline-block;
   margin-left: 5%;
@@ -76,22 +56,17 @@ a{
 .imgfloat{
   margin-top: 5%;
   text-align: center;
-
 }
 
 .heroimg{
-
   top: 20%;
   right: 0;
   position: absolute;
-
 }
 
 .display{
-
   position: relative;
   margin-left: 100px;
-
 }
 
 .contacts{
@@ -100,7 +75,6 @@ a{
   display: inline-block;
   color: white;
   width: 45px;
-
 }
 
 .contactdisplay{
@@ -109,10 +83,8 @@ a{
 }
 
 .img{
-
   border: #11222B solid 2px;
   box-shadow: -10px 15px 5px;
-
 }
 
 .imgcontainer{
@@ -136,7 +108,6 @@ a{
 }
 
 .btn{
-
   font-family: "Proza Libre", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -145,20 +116,10 @@ a{
   background-color: #11222B;
   border: #11222B solid;
   border-radius: 5px;
-
 }
 
 .btn:hover{
-
   background-color: #1a3747;
   border: #1a3747 solid;
   cursor: pointer;
-
-
-}
-
-@keyframes cursor-blink {
-  0% {
-    opacity: 0;
-  }
 }
