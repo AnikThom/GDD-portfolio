@@ -18,7 +18,11 @@ img{
 }
 
 a{
-  text-decoraction:  none;
+  text-decoraction: none;
+}
+
+a:hover{
+  color:white;
 }
 
 .centerimg{
