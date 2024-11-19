@@ -282,6 +282,7 @@ width: 500px;
 }
 
 .desc{
+  font-size: 20px;
   flex-direction: column;
   position: relative;
   text-align: left;
@@ -444,6 +445,7 @@ width: 500px;
 }
 
 .desc{
+  font-size: 20px;
   flex-direction: column;
   position: relative;
   text-align: left;
@@ -608,6 +610,7 @@ width: 500px;
 }
 
 .desc{
+  font-size: 20px;
   flex-direction: column;
   position: relative;
   text-align: left;
