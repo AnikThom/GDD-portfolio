@@ -266,7 +266,8 @@ a:hover{
 .imgblock{
   display: block;
   position: relative;
-  width: 50%;
+  width: 512px;
+  height: 512px;
   margin-left: 5%;
   margin-right: 10%;
 }
@@ -422,7 +423,8 @@ a:hover{
 .imgblock{
   display: block;
   position: relative;
-  width: 50%;
+  width: 512px;
+  height: 512px;
   margin-left: 5%;
   margin-right: 10%;
 }
@@ -580,7 +582,8 @@ a:hover{
 .imgblock{
   display: block;
   position: relative;
-  width: 50%;
+  width: 512px;
+  height: 512px;
   margin-left: 5%;
   margin-right: 10%;
 }
