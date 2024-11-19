@@ -26,6 +26,10 @@ a:hover{
   color:white;
 }
 
+video{
+width: 250px;
+}
+
 .centerimg{
   text-align: center;
 }
@@ -186,6 +190,10 @@ a:hover{
   color:white;
 }
 
+video{
+width: 500px;
+}
+
 .centerimg{
   text-align: center;
 }
@@ -342,6 +350,10 @@ a{
 
 a:hover{
   color:white;
+}
+
+video{
+width: 500px;
 }
 
 .centerimg{
@@ -502,6 +514,10 @@ a{
 
 a:hover{
   color:white;
+}
+
+video{
+width: 500px;
 }
 
 .centerimg{
